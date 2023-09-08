@@ -26,3 +26,8 @@ https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/9%20задание%202023
 Microsoft Visual Studio:
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/5b121dbe-f51b-4819-b9b9-69858d6b0a80)
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/0f0c5495-c3ea-4aec-ae9f-190cba41e480)
+SQL
+![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/d972940f-e4fd-4ed3-a37a-59d1fd7f479b)
+![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/a7d84435-015e-45b9-a0a0-f6f95c9100ca)
+![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/13da6353-e0c8-47c7-bf79-d4dbc59daf0d)
+Итог: Visual Studio Установлен и подключен к "Базе данных"
