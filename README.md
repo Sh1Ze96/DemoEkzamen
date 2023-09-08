@@ -4,9 +4,11 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/7212ef6f-e886-4462-a948-c8c8ef2f6c46)
 
 
-image
+![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/51c714ee-5650-428c-9687-02eeb64e61ce)
 
-image
+
+![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/b1ecce6d-2acd-4e3a-a226-2e2b9a873f1c)
+
 
 10 баллов - 3 20 баллов - 4 30 баллов - 5
 
