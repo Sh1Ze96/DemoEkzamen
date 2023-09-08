@@ -10,7 +10,7 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/b1ecce6d-2acd-4e3a-a226-2e2b9a873f1c)
 
 
-10 баллов - 3 20 баллов - 4 30 баллов - 5
+10 баллов - 3 \ 20 баллов - 4 30 \ баллов - 5
 
 1. Изучить описание предметной области: https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx (турагентсво);  
 2 задание Глазки-Save/Общие ресурсы/Введение ПО_G.pdf (глазки save); 
