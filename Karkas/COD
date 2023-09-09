@@ -1,0 +1,57 @@
+<br>cod 1
+   <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Image Source="Logo.JPG" HorizontalAlignment="Left"></Image>
+        <TextBlock Text="Header" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <Grid Background="Black" Panel.ZIndex="-2"></Grid>
+        <Grid Grid.Row="2" Background="Black"></Grid>
+        <Frame NavigationUIVisibility="Hidden" ContentRendered="MainFrame_ContentRendered" Grid.Row="1" Name="MainFrame" Background="Red"></Frame>
+        <Button Content="Back" Name="BtnBack" Width="175" Height="30" HorizontalAlignment="Right" Click="BtnBack_Click" Background="White"></Button>
+        <Button Background="White" Click="Button_Click"></Button>
+    </Grid>
+
+
+<br>cod 2
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            MainFrame.Navigate(new HotelsPage());
+            Manager.MainFrame = MainFrame;
+        }
+
+        private void BtnBack_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.GoBack();
+        }
+
+        private void MainFrame_ContentRendered(object sender, EventArgs e)
+        {
+            if (MainFrame.CanGoBack)
+            {
+                BtnBack.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                BtnBack.Visibility = Visibility.Hidden;
+            }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBoxResult Result = MessageBox.Show("Закрыть приложение ?", "qwe", MessageBoxButton.YesNo);
+            if (Result == MessageBoxResult.Yes)
+            {
+                MessageBox.Show("Как закрыть приложение? ");
+            }
+            else if (Result == MessageBoxResult.No)
+            {
+                MessageBox.Show("Нажми ещё раз!");
+            }
+        }
+    }
