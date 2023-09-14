@@ -16,18 +16,13 @@ using System.Windows.Shapes;
 namespace ToursApp
 {
     /// <summary>
-    /// Логика взаимодействия для HotelsPage.xaml
+    /// Логика взаимодействия для User.xaml
     /// </summary>
-    public partial class HotelsPage : Page
+    public partial class User : Page
     {
-        public HotelsPage()
+        public User()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Manager.MainFrame.Navigate(new loginpage());
         }
     }
 }

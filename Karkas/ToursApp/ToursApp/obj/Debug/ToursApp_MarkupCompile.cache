@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Sh1za\Downloads\ToursApp\ToursApp\ToursApp\obj\Debug\
+C:\Users\Администратор\Desktop\ToursApp\ToursApp\obj\Debug\
 ToursApp
 none
 false
 DEBUG;TRACE
-C:\Users\Sh1za\Downloads\ToursApp\ToursApp\ToursApp\App.xaml
-3-1875146385
+C:\Users\Администратор\Desktop\ToursApp\ToursApp\App.xaml
+6-592286394
 
-8-1369034091
+11-195053030
 141183416626
-AddEditPage.xaml;HotelsPage.xaml;MainWindow.xaml;
+AddEditPage.xaml;Admin.xaml;HotelsPage.xaml;loginpage.xaml;MainWindow.xaml;User.xaml;
 
 False
 
