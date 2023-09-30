@@ -22,6 +22,8 @@ https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/9%20задание%202023
 3. Разработать диаграмму вариантов использования системы.
 
 4. Разработать ER-диаграмму.
+Флешка:
+![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/3eb65a29-c803-4997-bdb0-c66c48648055)
 
 Microsoft Visual Studio:
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/5b121dbe-f51b-4819-b9b9-69858d6b0a80)
