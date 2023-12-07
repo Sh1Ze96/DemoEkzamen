@@ -9,9 +9,12 @@
 
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/b1ecce6d-2acd-4e3a-a226-2e2b9a873f1c)
 
-
-10 баллов - 3 \ 20 баллов - 4 30 \ баллов - 5
-
+| Баллы | оценка |
+| ------| -------|
+| 10    |    3   |
+| 20    |    4   |
+| 30    |    5   |
+# Задания
 1. Изучить описание предметной области: [турагентсво](https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx) ;  
 2. задание Глазки-Save/Общие ресурсы/Введение ПО_G.pdf (глазки save); 
 [Свияжские холмы](https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/7%20задание%202022/09_1.2-2022_8/Вариант%208/Свияжские%20холмы/Описание%20предметной%20области.docx) ;
@@ -25,10 +28,10 @@
 Флешка:
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/3eb65a29-c803-4997-bdb0-c66c48648055)
 
-Microsoft Visual Studio:
+# Microsoft Visual Studio:
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/5b121dbe-f51b-4819-b9b9-69858d6b0a80)
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/0f0c5495-c3ea-4aec-ae9f-190cba41e480)
-SQL
+# SQL
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/d972940f-e4fd-4ed3-a37a-59d1fd7f479b)
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/a7d84435-015e-45b9-a0a0-f6f95c9100ca)
 ![image](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/13da6353-e0c8-47c7-bf79-d4dbc59daf0d)
