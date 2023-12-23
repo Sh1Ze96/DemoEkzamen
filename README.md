@@ -1,7 +1,7 @@
 # DemoEkzamen
 <br>[Документ](https://drive.google.com/drive/folders/1uorgxgDXFTjgBCLkpAfMORC7s8H9DKGT) по УП
-<br>[Документ](https://drive.google.com/drive/folders/13SixJYD-rR0oa-8wYJYvbiRrXzbuqS6q?usp=sharing) по ПП <\br>
-[Документ](https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit) для подготовки к экзамену
+<br>[Документ](https://drive.google.com/drive/folders/13SixJYD-rR0oa-8wYJYvbiRrXzbuqS6q?usp=sharing) по ПП 
+<br>[Документ](https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit) для подготовки к экзамену
 
 ![Alt text](https://github.com/Sh1Ze96/DemoEkzamen/assets/97594421/7212ef6f-e886-4462-a948-c8c8ef2f6c46)
 
